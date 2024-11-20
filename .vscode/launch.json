@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TicTacToeApp",
+            "request": "launch",
+            "mainClass": "App", 
+            "vmArgs": "--module-path \"C:/Users/bryceharris/Documents/Fall 2024/OOC Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/bryceharris/Documents/Fall 2024/OOC Java/javafx-sdk-23.0.1/lib/javafx-swt.jar",
+        "/Users/bryceharris/Documents/Fall 2024/OOC Java/javafx-sdk-23.0.1/lib/javafx.base.jar",
+        "/Users/bryceharris/Documents/Fall 2024/OOC Java/javafx-sdk-23.0.1/lib/javafx.controls.jar",
+        "/Users/bryceharris/Documents/Fall 2024/OOC Java/javafx-sdk-23.0.1/lib/javafx.fxml.jar",
+        "/Users/bryceharris/Documents/Fall 2024/OOC Java/javafx-sdk-23.0.1/lib/javafx.graphics.jar",
+        "/Users/bryceharris/Documents/Fall 2024/OOC Java/javafx-sdk-23.0.1/lib/javafx.media.jar",
+        "/Users/bryceharris/Documents/Fall 2024/OOC Java/javafx-sdk-23.0.1/lib/javafx.swing.jar",
+        "/Users/bryceharris/Documents/Fall 2024/OOC Java/javafx-sdk-23.0.1/lib/javafx.web.jar"
+    ]
+}

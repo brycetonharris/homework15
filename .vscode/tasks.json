@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "build",
+            "command": "javac",
+            "args": [
+                "--module-path", "C:/Users/bryceharris/Documents/Fall 2024/OOC Java/javafx-sdk-23.0.1/lib",
+                "--add-modules", "javafx.controls,javafx.fxml",
+                "-d", "bin",
+                "App.java"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}
